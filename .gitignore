@@ -1,0 +1,11 @@
+*.suo
+*.user
+
+/packages/
+
+bin/
+obj/
+log/
+logs/
+
+.vs/
